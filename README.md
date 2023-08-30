@@ -1,2 +1,2 @@
-# CovidNews_Scrapping
-Rapport d'Analyse sur la Couverture Médiatique du COVID-19
+# Rapport d'Analyse sur la Couverture Médiatique du COVID-19
+Le projet consiste à réaliser du web scraping sur les articles de la BBC portant sur le COVID-19. Dans un premier temps, j'ai extrait une quantité substantielle de données à partir de ces articles, collectant des titres, des textes et des métadonnées. Ensuite, j'ai procédé à l'analyse du contenu en comptant le nombre d'apparitions de chaque mot clé. Cette analyse m'a permis d'identifier les mots les plus fréquemment utilisés dans la couverture médiatique de la pandémie par la BBC. Pour présenter ces résultats de manière visuelle, j'ai créé un barplot basé sur cette base de données, offrant ainsi une représentation graphique des tendances et des points forts de la couverture médiatique de la BBC concernant le COVID-19.
